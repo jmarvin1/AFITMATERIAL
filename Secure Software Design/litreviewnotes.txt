@@ -1,0 +1,18 @@
+Secure Software Lit Review:
+Source 1: Machine Learning in Wireless Sensor Networks: Algorithms, Strategies, and Applications
+	Ideas: SVMs for security of WSNs, Bayesian statistics to examine input history, principal component analysis, distributed event detection for disaster management using decision tree, resource challenges for sensor securities, detecting selective forwarding attacks using support vector machine (33), reliability of sensor nodes using gaussian process (27), 
+	Sources Referenced: (33, 34, 46, 47, 48 support vector machines for security) (52, 53 bayesian)(62, 63 pca) (27 disaster mgmt decis tree) (14 resource challenges)
+WSN security enhancements from machine learning: save energy by not transmitting outlier or malicious data, enhance reliability, and prevention of attacks
+
+Source 2: Detecting Selective Forwarding Attacks in Wireless Sensor Networks using Support Vector Machines
+IDEAS: Security models and protocols used in wired and other networks are not suited for WSNs because of resource constraints, Selective forwarding is a type of DoS attack, their method works well because detection is done at the base station and not the nodes so bandwidth, energy, and memory are less of a concern. Good at identifying 100% SF attacks and 80% SF attacks but not as accurate for 50 and 30%
+
+Source 3: Outlier Detection in Wireless Sensor Networks using Bayesian Belief Networks (BBNs)
+IDEAS: outlier mining is important because outliers can contain important hidden information, repeated 
+
+Source 4: Distributed Event Detection in Wireless Sensor Networks for Disaster Management
+IDEAS:
+uses decision trees + reputation-based voting method for aggregating the detection results of individual sensor nodes and reaches consensus, results were high detection and low computational complexity
+Sources to look into: 16, 17
+
+Source 5: An architecture for Energy Management in Wireless Sensor Networks
