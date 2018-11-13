@@ -1,0 +1,27 @@
+Email is one of the most common delivery mechanisms for network-based attacks (phishing, viruses, Trojan horses, bots, worms, browser exploits, key loggers, spyware, adware, and others. 
+1/12 emails contains malware [8]
+some strategies hackers use to up their click through rate:
+	hiding destination for hyperlink
+	falsifying header information
+	createive use of images
+	mimicking legitimate emails
+context: email messages that take advantage of some shared context among friends on a social network
+	has better luck at bypassing spam filters
+	high click through rate
+Finding: 85% of users who have visible profiles could be targeted with a context aware attack
+
+Privacy must come from the community prosepctive
+
+Strategies:
+make sites private when possible
+	only effective when others do it too
+	only display friends on other safe profiles
+put fake accounts in the site so that if they get targeted the site will have a sample of the attacks
+Convert PII text to images so it is harder to scan
+	Can be undone by high quality OCR software
+Limit PII on social media
+Brown, G., Howe, T., Ihbe, M., Prakash, A., & Borders, K. (2008, November). Social networks and context-aware spam. In Proceedings of the 2008 ACM conference on Computer supported cooperative work (pp. 403-412). ACM.
+
+Friend in the middle attacks
+
+Huber, M., Mulazzani, M., Weippl, E., Kitzler, G., & Goluch, S. (2011). Friend-in-the-middle attacks: Exploiting social networking sites for spam. IEEE Internet Computing, 15(3), 28-34.
